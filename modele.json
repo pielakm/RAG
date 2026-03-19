@@ -1,0 +1,94 @@
+{
+  "models": {
+        "gemma_9b": {
+      "repo_id": "bartowski/gemma-2-9b-it-GGUF",
+      "filename": "gemma-2-9b-it-IQ2_M.gguf",
+      "prompt_template": "<start_of_turn>user\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\n\nKONTEKST:\n{context}\n\nPYTANIE:\n{question}<end_of_turn>\n<start_of_turn>model\n"
+    },
+    "qwen_1.5b": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+      "filename": "qwen2.5-1.5b-instruct-q4_0.gguf",
+      "prompt_template": "<|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKONTEKST:\n{context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n<|im_start|>assistant\n"
+    },
+    "gemma_2_9b": {
+      "repo_id": "bartowski/gemma-2-9b-it-GGUF",
+      "filename": "gemma-2-9b-it-IQ2_M.gguf",
+      "prompt_template": "<start_of_turn>user\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKONTEKST: {context}\nPYTANIE: {question}<end_of_turn>\n<start_of_turn>model\n"
+    },
+    "gemma_2_2b": {
+      "repo_id": "bartowski/gemma-2-2b-it-GGUF",
+      "filename": "gemma-2-2b-it-Q6_K.gguf",
+      "prompt_template": "<start_of_turn>user\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKONTEKST: {context}\nPYTANIE: {question}<end_of_turn>\n<start_of_turn>model\n"
+    },
+    "qwen_2.5_1.5b": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+      "filename": "qwen2.5-1.5b-instruct-q8_0.gguf",
+      "prompt_template": "<|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKONTEKST:\n{context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n<|im_start|>assistant\n"
+    },
+    "llama_3.2_1b": {
+      "repo_id": "bartowski/Llama-3.2-1B-Instruct-GGUF",
+      "filename": "Llama-3.2-1B-Instruct-Q8_0.gguf",
+      "prompt_template": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nUżyj kontekstu: {context}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n{question}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+    },
+    "phi_3.5_mini": {
+      "repo_id": "bartowski/Phi-3.5-mini-instruct-GGUF",
+      "filename": "Phi-3.5-mini-instruct-Q4_K_M.gguf",
+      "prompt_template": "<|system|>\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKorzystaj z kontekstu: {context}<|end|>\n<|user|>\n{question}<|end|>\n<|assistant|>\n"
+    },
+    "granite_3_2b": {
+      "repo_id": "bartowski/granite-3.0-2b-instruct-GGUF",
+      "filename": "granite-3.0-2b-instruct-Q8_0.gguf",
+      "prompt_template": "<|system|>\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}<|user|>\n{question}<|assistant|>\n"
+    },
+    "stablelm_3b": {
+      "repo_id": "TheBloke/stablelm-zephyr-3b-GGUF",
+      "filename": "stablelm-zephyr-3b.Q4_K_M.gguf",
+      "prompt_template": "<|user|>\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}\nPytanie: {question}<|endoftext|>\n<|assistant|>\n"
+    },
+    "llama_3.1_8b": {
+      "repo_id": "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF",
+      "filename": "Meta-Llama-3.1-8B-Instruct-Q3_K_L.gguf",
+      "prompt_template": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n{question}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+    },
+    "mistral_7b_v0.3": {
+      "repo_id": "MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF",
+      "filename": "Mistral-7B-Instruct-v0.3.Q3_K_M.gguf",
+      "prompt_template": "<s>[INST] \nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}\nPytanie: {question} [/INST]"
+    },
+    "openhermes_7b": {
+      "repo_id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
+      "filename": "openhermes-2.5-mistral-7b.Q3_K_M.gguf",
+      "prompt_template": "<|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim. \nKontekst: {context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n<|im_start|>assistant\n"
+    },
+    "ministral_8b": {
+      "repo_id": "bartowski/Ministral-8B-Instruct-2410-GGUF",
+      "filename": "Ministral-8B-Instruct-2410-Q3_K_L.gguf",
+      "prompt_template": "<s>[INST] \nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}\n{question} [/INST]"
+    },
+    "smollm2_1.7b": {
+      "repo_id": "bartowski/SmolLM2-1.7B-Instruct-GGUF",
+      "filename": "SmolLM2-1.7B-Instruct-Q8_0.gguf",
+      "prompt_template": "<|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim. \nKontekst: {context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n"
+    },
+    "nemotron_mini_4b": {
+      "repo_id": "bartowski/Nemotron-Mini-4B-Instruct-GGUF",
+      "filename": "Nemotron-Mini-4B-Instruct-Q4_K_M.gguf",
+      "prompt_template": "<extra_id_0|System\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}\n<extra_id_1>User\n{question}\n<extra_id_1>Assistant\n"
+    },
+    "internlm2_5_1_8b": {
+      "repo_id": "bartowski/internlm2_5-1_8b-chat-GGUF",
+      "filename": "internlm2_5-1_8b-chat-Q8_0.gguf",
+      "prompt_template": "<|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim. \nKontekst: {context}<|im_end|>\n<|im_start|>user\n{question}<|im_end|>\n"
+    },
+    "liquid_ai-lfm2-1.2B": {
+      "repo_id": "LiquidAI/LFM2-1.2B-RAG-GGUF",
+      "filename": "LFM2-1.2B-RAG-F16.gguf",
+      "prompt_template": "<|startoftext|><|im_start|>system\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.<|im_end|>\n<|im_start|>user\nKontekst: {context}\nPytanie: {question}<|im_end|>\n<|im_start|>assistant\n"
+    },
+    "bielik-11b-v2.3": {
+      "repo_id": "speakleash/Bielik-11B-v2.3-Instruct-GGUF",
+      "filename": "Bielik-11B-v2.3-Instruct.Q4_K_M.gguf",
+      "prompt_template": "<s><|im_start|>user\nJesteś asystentem akademickim. Odpowiedz na pytanie krótko i konkretnie, nawiązując WYŁĄCZNIE z podanego kontekstu. Odpowiadaj w języku polskim.\nKontekst: {context}\n{question}<|im_end|>\n<|im_start|>assistant\n"
+    }
+  }
+}
