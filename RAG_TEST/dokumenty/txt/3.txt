@@ -1,0 +1,138 @@
+Pismo okólne Nr 5/2026
+Rektora Politechniki Lubelskiej
+z dnia 16 lutego 2026 r.
+w sprawie wprowadzenia procedury uzyskania
+kwalifikowanego podpisu elektronicznego
+Wprowadza się następujące zasady dotyczące zakupu i odnowienia kwalifikowanego
+certyfikatu podpisu elektronicznego oraz stosowania przez pracowników Politechniki
+Lubelskiej kwalifikowanego podpisu elektronicznego.
+§ 1.
+1. Kwalifikowany podpis elektroniczny oparty na certyfikacie kwalifikowanym jest
+równoważny z własnoręcznym podpisem i stosuje się go na Politechnice Lubelskiej do
+podpisywania dokumentów wchodzących w zakres spraw poszczególnych jednostek
+organizacyjnych.
+2. Pracownikami uprawnionymi do stosowania kwalifikowanego podpisu elektronicznego
+są:
+1) rektor;
+2) osoby pełniące funkcje:
+a) prorektora,
+b) dziekana,
+c) prodziekana,
+d) przewodniczącego rady dyscypliny naukowej,
+e) kanclerza,
+f) kwestora,
+g) kierownika projektu;
+3) pozostali pracownicy Uczelni na podstawie zakresu obowiązków za zgodą rektora.
+§ 2.
+1. Osoby, w których mowa w § 1 ust. 2, mogą stosować kwalifikowany podpis elektroniczny
+zgodnie z przepisami prawa do celów służbowych wynikających z zakresu obowiązków
+oraz w granicach posiadanych pełnomocnictw.
+2. Każdy użytkownik kwalifikowanego podpisu elektronicznego zobowiązany jest chronić
+kartę/czytnik USB zintegrowany z podpisem kwalifikowanym przed utratą, zniszczeniem
+lub uszkodzeniem oraz dostępem do niej osób nieupoważnionych.
+3. Kod PIN i PUK zabezpieczający kartę jest poufny i przeznaczony do używania wyłącznie
+przez użytkownika karty i nie może być udostępniany innym osobom.
+4. W razie utraty karty bądź ujawnieniu osobie trzeciej hasła/PINu bądź PUKu, użytkownik
+podpisu zobowiązany jest do niezwłocznego powiadomienia wystawcy certyfikatu
+o utracie karty/hasła/PINu/PUKu w celu dezaktywacji podpisu kwalifikowanego.
+5. Każdy użytkownik kwalifikowanego podpisu elektronicznego zobowiązany jest do
+pilnowania jego terminu ważności.6. Ważność certyfikatu kwalifikowanego podpisu elektronicznego sprawdzić można
+w następujący sposób:
+1) po włożeniu karty z kwalifikowanym podpisem elektronicznym do czytnika lub
+czytnika USB zintegrowanego z podpisem elektronicznym należy otworzyć aplikację
+Menedżer CryptoCard Graphite (znajduje się w programach w menu start);
+2) ważność jest pokazana w polu: „Data wygaśnięcia:” (co przedstawiono na rysunku).
+Rys. Okno programu Menedżer CryptoCard Graphite
+§ 3.
+1. Wnioskodawca starający się o kwalifikowany podpis elektroniczny (nowy lub
+odnowienie) sporządza i przesyła zapotrzebowanie według następującej procedury:
+1) w formularzu zapotrzebowania w polu „Uzasadnienie potrzeby zakupu przedmiotu
+zamówienia” należy określić rodzaj posiadanego pełnomocnictwa oraz cel zakupu
+podpisu kwalifikowanego:
+a) osoba upoważniona do wystawiania legitymacji studenckiej,
+b) osoba upoważniona do wystawiania legitymacji doktoranta,
+c) osoba upoważniona do wystawiania legitymacji,
+d) inny – opisać jaki, np. „Kierownik projektu…”;
+2) następnie wniosek zapotrzebowania należy przekazać do akceptacji na konto
+techniczne Biura Rektora i Organizacji Uczelni, gdzie następuje weryfikacja
+posiadanego pełnomocnictwa przez pracownika merytorycznego – w przypadku
+weryfikacji negatywnej zapotrzebowanie zostaje odrzucone;
+3) po pozytywnej weryfikacji wniosek zapotrzebowania należy przekazać do dalszego
+procedowania w następującej kolejności:
+a) kierownik jednostki organizacyjnej (akceptacja),
+b) dysponent środków (akceptacja),
+c) konto techniczne Centrum Informatycznego, skąd jest kierowane do realizacji
+przez pracownika merytorycznego,
+d) po kontakcie pracownika Centrum Informatycznego prowadzącego sprawę
+należy przesłać na jego adres poczty elektronicznej informacje o danychosobowych w formie wypełnionego formularza, stanowiącego Załącznik do
+niniejszego Pisma okólnego.
+2. W przypadku złożenia zapotrzebowania na 30 dni przed upływem terminu ważności
+podpisu kwalifikowanego, odnowienie nastąpi na posiadanej karcie.
+3. W przypadku upływu terminu ważności istniejącego podpisu kwalifikowanego
+odnowienie odbywa się na nowej karcie.
+4. Formularz, o którym mowa w ust. 1 pkt 3 lit. d powinien zawierać:
+1) przy zakupie nowego certyfikatu:
+„Podpis kwalifikowany nowy na [1 rok | 2 lata] – [karta duża | karta mała + czytnik
+USB] – Imię Nazwisko”. Cena … zł (netto);
+2) przy odnowieniu certyfikatu na nowej karcie:
+„Podpis kwalifikowany odnowienie na [1 rok | 2 lata] na nowej karcie [dużej | małej]”
+– Imię Nazwisko”. Cena … zł (netto);
+3) przy odnowieniu certyfikatu na istniejącej karcie:
+„Podpis kwalifikowany odnowienie na [1 rok | 2 lata] ” – Imię Nazwisko”. Cena … zł
+(netto);
+5. Aktualna cena poszczególnych podpisów kwalifikowanych znajduje się w Intranecie
+w sekcji „Dział IT” - > „Podpisy Kwalifikowane”.
+6. W przypadku odnowienia certyfikatu na istniejącej karcie, użytkownik od otrzymania
+informacji od wystawcy certyfikatu o konieczności wystawieniu pliku żądania, udaje się
+do Centrum Informatycznego z podpisem kwalifikowanym w celu wystawienia
+ww. pliku.
+7. Zakończenie procedury zakupu lub odnowienia kwalifikowanego certyfikatu podpisu
+elektronicznego:
+1) w przypadku odnowienia – po utracie ważności certyfikatu użytkownik udaje się
+wraz z kartą lub czytnikiem USB do Centrum Informatycznego w celu wgrania
+nowego certyfikatu (nie wcześniej niż 5-go dnia od daty wystawienia pliku żądania);
+2) w przypadku nowego podpisu lub nowej karty – po informacji od wystawcy
+certyfikatu użytkownik zobowiązany jest do osobistego odbioru podpisu
+kwalifikowanego w siedzibie wystawcy certyfikatu (niezbędny dowód osobisty);
+następnie w celu aktywacji podpisu użytkownik zobowiązany jest udać się do
+Centrum Informatycznego.
+§ 4.
+1. Unieważnienie kwalifikowanego certyfikatu podpisu elektronicznego może nastąpić na
+wniosek rektora, właściciela podpisu, jego kierownika lub innej upoważnionej osoby.
+2. Unieważnienie kwalifikowanego certyfikatu podpisu elektronicznego może nastąpić
+w następujących przypadkach:
+1) zmiany stanowiska pracy osoby posiadającej kwalifikowany podpis elektroniczny,
+skutkującej brakiem konieczności stosowania przez nią kwalifikowanego podpisu
+elektronicznego;
+2) rozwiązania stosunku pracy z osobą posiadającą kwalifikowany podpis elektroniczny;
+3) odwołania lub wygaśnięcia udzielonego pełnomocnictwa, skutkującego brakiem
+konieczności stosowania kwalifikowanego podpisu elektronicznego;
+4) zmiany danych osobowych (np. zmiany nazwiska).
+3. W przypadku unieważnienia lub nieprzedłużania podpisu kwalifikowanego czytnik USB
+należy zwrócić do Centrum Informatycznego.§ 5.
+Traci moc Pismo okólne Nr 7/2019 Rektora Politechniki Lubelskiej z dnia 13 września 2019 r.
+w sprawie wprowadzenia procedury zakupu i odnowienia kwalifikowanego certyfikatu
+podpisu elektronicznego.
+§ 6
+Pismo okólne wschodzi w życie z dniem podpisania.
+R e k t o r
+Prof. dr hab inż. Zbigniew Pater
+/ – podpisano cyfrowo /Załącznik
+do Pisma okólnego Nr 5/2026
+Rektora Politechniki Lubelskiej
+z dnia 16 lutego 2026 r.
+Formularz danych osobowych do Zapotrzebowania nr: ………………..……
+1) imię/imiona i nazwisko
+……………………………………………………………………………………………….………
+2) seria i numer dowodu osobistego
+……………………………………………………………………………………………….………
+3) organ wydający dokument tożsamości
+……………………………………………………………………………………………….………
+4) PESEL
+……………………………………………………………………………………………….………
+5) data i miejsce urodzenia
+……………………………………………………………………………………………….………
+6) numer telefonu (preferowany numer telefonu komórkowego)
+……………………………………………………………………………………………….………
+7) e-mail
+……………………………………………………………………………………………….………
